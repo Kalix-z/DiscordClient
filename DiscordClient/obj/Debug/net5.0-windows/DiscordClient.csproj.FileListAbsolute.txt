@@ -16,3 +16,12 @@ C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\obj\Debug\net5.0
 C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\obj\Debug\net5.0-windows\ref\DiscordClient.dll
 C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\obj\Debug\net5.0-windows\DiscordClient.pdb
 C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\obj\Debug\net5.0-windows\DiscordClient.genruntimeconfig.cache
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\bin\Debug\net5.0-windows\Discord.Net.Commands.dll
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\bin\Debug\net5.0-windows\Discord.Net.Core.dll
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\bin\Debug\net5.0-windows\Discord.Net.Rest.dll
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\bin\Debug\net5.0-windows\Discord.Net.Webhook.dll
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\bin\Debug\net5.0-windows\Discord.Net.WebSocket.dll
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\bin\Debug\net5.0-windows\System.Interactive.Async.dll
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\bin\Debug\net5.0-windows\System.Linq.Async.dll
+C:\Users\Arin\Documents\Code\CSharp\DiscordClient\DiscordClient\obj\Debug\net5.0-windows\DiscordClient.csproj.CopyComplete
