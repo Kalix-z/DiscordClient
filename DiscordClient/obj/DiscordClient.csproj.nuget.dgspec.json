@@ -49,7 +49,7 @@
           "dependencies": {
             "Discord.Net": {
               "target": "Package",
-              "version": "[2.4.0, )"
+              "version": "[1.0.2, )"
             }
           },
           "imports": [

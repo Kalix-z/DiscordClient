@@ -15,6 +15,7 @@ namespace DiscordClient
         {
             /* Starts a console window for debuging */
             AllocConsole();
+            /* Starts the Discord API calls in a new thread */
             Thread DiscordThread = new Thread(DiscordMain.StartApiCommunication);
             DiscordThread.Start();
             Application.SetHighDpiMode(HighDpiMode.SystemAware);

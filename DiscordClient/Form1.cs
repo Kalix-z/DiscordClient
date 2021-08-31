@@ -13,10 +13,10 @@ namespace DiscordClient
 {
     public partial class Form1 : Form
     {
+        string equation = "";
         public Form1()
         {
             InitializeComponent();
-            Text = "Slav Dog Discord";
 
         }
 
